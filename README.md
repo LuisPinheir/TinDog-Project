@@ -1,2 +1,2 @@
 # TinDog-Project
-It's like tinder, but for dogs.
+It's like tinder, but for dogs or pets.
